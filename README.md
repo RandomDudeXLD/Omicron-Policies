@@ -3,7 +3,7 @@ Omicron's Terms of Service and Privacy Policy.
 
 
 # Terms of Service
-Last Updated: October 21, 2025
+Last Updated: October 27th, 2025
 
 1. Using the App
 
@@ -28,7 +28,7 @@ Omicron collects and stores data as outlined in the Privacy Policy. By using Omi
 
 5. Contact and Support
 
-Omicron is owned and operated by sir_random97. Support isn't available for Omicron as it does not have any logging capabilities nor any ways to access private direct messages to the app.
+Omicron is owned and operated by sir_random97. Support is only available by contacting him.
 
 6. Changes to These Terms
 
@@ -36,16 +36,16 @@ The Terms of Service may be updated at any time. Continued use of Omicron after 
 
 
 # Privacy Policy
-Last Updated: October 21, 2025
+Last Updated: October 27th, 2025
 
 1. What data is collected?
 
 The app collects and stores only the necessary data in order for commands to function properly. This includes:
  
 - Server-related data: Such as server IDs, channel IDs, roles, and configured settings.
-- User-related data: Such as user IDs and preferences.
+- User-related data: Such as user IDs, logged messages and preferences.
 
-Omicron does not store any content sent in servers or direct messages to the app.
+Omicron only stores the necessary content 
 
 2. Why this data is collected
 
@@ -67,8 +67,8 @@ The app owner, the only person with access to stored data.
 
 5. Data Removal
 
-The data collected by Omicron isn't available for removal requests.
+The data collected by Omicron may be removed by filing a data removal request to the owner of Omicron.
 
 6. Changes to our policy
 
-This Privacy Policy may be updated at any given time. Continued use of Omicron following any updated means you accept the revised Privacy Policy 
+This Privacy Policy may be updated at any given time. Continued use of Omicron following any updates means you accept the revised Privacy Policy 
